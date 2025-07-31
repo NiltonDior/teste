@@ -6,4 +6,4 @@
 
 isso aqui é oo arquivo leia-me
 
-!image
+!image.jpg
